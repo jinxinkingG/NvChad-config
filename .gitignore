@@ -1,1 +1,5 @@
 plugin
+*.java
+java-debug
+vscode-java-test
+

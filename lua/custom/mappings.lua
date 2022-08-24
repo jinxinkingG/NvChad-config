@@ -7,5 +7,10 @@ M.hop= {
     ["<leader>hl"] = {"<cmd>HopLine<CR>","Hop Line"}
   }
 }
+M.global = {
+  n = {
+    ["<leader>q"] = {"<cmd>q!<CR>","Quit"}
+  }
+}
 
 return M
